@@ -103,7 +103,8 @@ __pycache__/
 .env
 db.sqlite3
 media
-static
+static/css
+static/images
 ecommerce/settings.py
 
 *settings.py
